@@ -1,6 +1,6 @@
 # Retail-sales-performance
 ## Project Overview
-
+<img width="155" height="82" alt="Image" src="https://github.com/user-attachments/assets/03e567c1-f229-49c2-ac51-967f789bd1a4" /> 
 The Retail Sales Project focuses on analyzing and understanding sales data from a retail business. The goal of this project is to identify sales trends, customer behavior, and product performance to support better business decisions.
 
 This project can be used for learning data analysis, building dashboards, or demonstrating basic programming and analytical skills. 
