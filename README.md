@@ -84,7 +84,14 @@ The project provides clear insights into retail sales performance. It shows how 
 
 This section showcases the interactive dashboards created in Power BI to visualize retail sales insights.
 
-📌 Sales Overview Dashboard
+📌 Sales Overview DashboardRetail-Sales-Project/
+│── README.md
+│── screenshots/
+│   └── zara_retail_sales_dashboard.png
+## 🖼️ Dashboard Screenshot
+
+### 📊 Zara Retail Sales Dashboard  
+
 
 Displays overall sales performance
 
