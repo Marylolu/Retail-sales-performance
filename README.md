@@ -106,7 +106,12 @@ Interact with dashboards to explore sales insights
 
 ###### Results & Insights 
 
-The project provides clear insights into retail sales performance. It shows how promotions, product placement, and seasonal factors influence sales, presented through easy-to-understand dashboards and visualizations.
+The project provides clear insights into retail sales performance. It shows how promotions,
+product placement, and seasonal factors influence sales, presented through easy-to-understand dashboards and visualizations.
 
+###### 👤 Author
+**[Mary Taiwo]  
+Aspiring Data Analyst / Business Analyst  
 
+📫 *Feel free to get in touch via GitHub: https://github.com/Marylolu/Retail-sales-performance  
 
