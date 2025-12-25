@@ -1,43 +1,78 @@
 # Retail-sales-performance
-## Project Overview
-<img width="155" height="82" alt="Image" src="https://github.com/user-attachments/assets/03e567c1-f229-49c2-ac51-967f789bd1a4" /> 
-The Retail Sales Project focuses on analyzing and understanding sales data from a retail business. The goal of this project is to identify sales trends, customer behavior, and product performance to support better business decisions.
+## 🔍 Project Overview
+This project presents an end-to-end retail sales analysis designed to demonstrate **data analysis, business insight generation, and documentation skills**.  
+Using a real-world–style retail dataset, the project explores how product placement, seasonality, promotions, pricing, and customer segments influence sales volume and revenue.
 
-This project can be used for learning data analysis, building dashboards, or demonstrating basic programming and analytical skills. 
-### Objectives
-Analyze the effect of promotions on retail sales
+### 🎯 Business Questions
+The project answers the following key questions:
 
-Study the impact of product positioning on sales performance
+1. How does product position and store section placement affect sales volume?
+2. Do seasonal trends impact sales performance?
+3. Which products generate the highest total revenue?
+4. Do promotions significantly increase sales volume?
+5. How do purchasing behaviors differ between men and women?
+6. Does product price influence sales volume?
 
-Compare sales patterns based on gender
+### 🗂 Repository Structure
+[raw data github.xlsx](https://github.com/user-attachments/files/24340996/raw.data.github.xlsx)
 
-Evaluate performance across different store sections
+[sales_analysis_pivots (2).xlsx](https://github.com/user-attachments/files/24341005/sales_analysis_pivots.2.xlsx)
 
-Identify seasonal trends in sales
+ [sales_analysis_final.xlsx](https://github.com/user-attachments/files/24341020/sales_analysis_final.xlsx)
 
-Present insights through interactive dashboards
-A
+#### 🧾 Dataset Description
+The raw dataset contains product-level retail data, including:
+- Product position (aisle, end-cap, front of store)
+- Promotion status
+- Product category and section (Men / Women)
+- Season
+- Price
+- Sales volume
+- Revenue
+- Brand, material, and country of origin
 
-#### Dataset Description
+All metrics are aggregated using **total values** to reflect true business impact.
 
-The dataset is maintained in Microsoft Excel and contains the following variables:
+#### 🧠 Analytical Approach
+- **Data aggregation:** Excel pivot tables using SUM
+- **Segmentation:** Product position, season, promotion, gender section, price range
+- **Visualization:** Bar and Pie charts for comparative analysis
+- **Synthesis:** Executive summary translating data into business insights
 
-Promotion – Whether a product was promoted or not
+An **All Charts dashboard sheet** consolidates key visuals for presentation use.
+#### 🖼️ Dashboard Screenshots
 
-Product Position – Placement of products within the store
+This section showcases the interactive dashboards created in Power BI to visualize retail sales insights.
 
-Gender – Customer gender
+<img width="584" height="330" alt="image" src="https://github.com/user-attachments/assets/e325bb0b-30d2-4480-b371-6f1ff68d2d9b" />
 
-Section – Store or product section
 
-Seasonal – Season during which sales occurred
+#### 📈 Key Insights
+- Aisle placements generate the highest total sales volume due to greater product availability.
+- Autumn and Winter account for the largest share of annual sales.
+- Revenue is concentrated among a small number of top-performing products.
+- Promotions significantly increase total sales volume.
+- The women’s section contributes over two-thirds of total sales volume.
+- Mid-priced products (€25–50) outperform other price ranges in sales volume.
+--
+#### 📊 Analysis Outputs
+The Excel analysis file includes:
+- Pivot tables for each business question
+- Charts embedded next to each pivot
+- A consolidated **All Charts** dashboard
+- A professional **Executive Summary** sheet
 
-Sales / Revenue – Total sales value
+#### 🛠 Tools & Skills Demonstrated
+- Data cleaning & aggregation
+- Exploratory data analysis (EDA)
+- Business insight generation
+- Data visualization
+- Technical documentation
+- GitHub project structuring
 
-Quantity Sold – Number of units soldTools 
-
-##### Technologies Used
-
+**Tools Used:**  
+- Microsoft Excel (Pivot Tables, Charts)  
+- GitHub (Version Control & Portfolio Presentation)
 Microsoft Excel – Data cleaning and preparation
 
 Pivot Tables – Data summarization and analysis
@@ -48,24 +83,17 @@ Power BI – Data modeling and visualization
 
 Dashboards – Interactive reporting and insight presentation
 
-##### Analysis & Key Features
+#####⚠️ Limitations
+- Analysis is descriptive, not predictive
+- No customer-level or time-series modeling
+- Results depend on product availability and dataset scope
 
-Data cleaning and structuring in Excel
+## ⚠️ Limitations
+- Analysis is descriptive, not predictive
+- No customer-level or time-series modeling
+- Results depend on product availability and dataset scope
 
-Sales analysis using Pivot Tables and Pivot Charts
-
-Comparison of promotional and non-promotional sales
-
-Product position and section-wise performance analysis
-
-Gender-based sales comparison
-
-Seasonal trend analysis
-
-Interactive dashboards built in Power BI
-
-###### ▶️ How to Use the Project
-
+##### How to use this chats
 Open the Excel file to review the dataset and Pivot Tables
 
 Explore Pivot Charts for initial insights
@@ -74,30 +102,11 @@ Open the Power BI file (.pbix)
 
 Refresh data if required
 
-Interact with dashboards to explore sales insigh
+Interact with dashboards to explore sales insights 
 
 ###### Results & Insights 
 
 The project provides clear insights into retail sales performance. It shows how promotions, product placement, and seasonal factors influence sales, presented through easy-to-understand dashboards and visualizations.
 
-###### 🖼️ Dashboard Screenshots
-
-This section showcases the interactive dashboards created in Power BI to visualize retail sales insights.
-
-📌 Sales Overview DashboardRetail-Sales-Project/
-│── README.md
-│── screenshots/
-│   └── zara_retail_sales_dashboard.png
-## 🖼️ Dashboard Screenshot
-
-### 📊 Zara Retail Sales Dashboard  
 
 
-Displays overall sales performance
-
-Highlights total revenue and quantity sold
-
-Shows trends across different time periods
-
-📷 Screenshot:
-/screenshots/sales_overview_dashboard.png
