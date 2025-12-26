@@ -1,4 +1,6 @@
 # Retail-sales-performance
+
+<img width="155" height="82" alt="Image" src="https://github.com/user-attachments/assets/986b3384-5690-4431-9e79-f9c2358d2a79" />
 ## 🔍 Project Overview
 This project presents an end-to-end retail sales analysis designed to demonstrate **data analysis, business insight generation, and documentation skills**.  
 Using a real-world–style retail dataset, the project explores how product placement, seasonality, promotions, pricing, and customer segments influence sales volume and revenue.
