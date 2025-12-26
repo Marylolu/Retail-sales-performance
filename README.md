@@ -13,7 +13,7 @@ The project answers the following key questions:
 5. How do purchasing behaviors differ between men and women?
 6. Does product price influence sales volume?
 
-### 🗂 Repository Structure
+### 🗂 Repository Structures
 [raw data github.xlsx](https://github.com/user-attachments/files/24340996/raw.data.github.xlsx)
 
 [sales_analysis_pivots (2).xlsx](https://github.com/user-attachments/files/24341005/sales_analysis_pivots.2.xlsx)
@@ -113,5 +113,5 @@ product placement, and seasonal factors influence sales, presented through easy-
 **[Mary Taiwo]  
 Aspiring Data Analyst / Business Analyst  
 
-📫 *Feel free to get in touch via GitHub: https://github.com/Marylolu/Retail-sales-performance  
+📫 *Feel free to get in touch via GitHub: https://github.com/Marylolu/Retail-sales-performance and datascienceportfol.io/taiwooloruntele  
 
